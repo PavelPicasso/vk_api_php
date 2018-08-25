@@ -4,9 +4,9 @@
 Данная библиотека позволяет: отправлять сообщения, изображения и клавиатуру для ботов ВК.
 > Внимание ! Поддержка бесед работает только если выбрана версия callBack api старше 5.8
 
-Автор: [Runnin](https://vk.com/runnin4ik)
-Группа автора проекта GameTips: [https://vk.com/gametips](https://vk.com/gametips)
-Страница проекта на сайте автора: [https://game-tips.ru/it/kak-sdelat-knopki-byistryih-otvetov-keyboard-dlya-botov-v-vk/](https://game-tips.ru/it/kak-sdelat-knopki-byistryih-otvetov-keyboard-dlya-botov-v-vk/)
+Автор: [Runnin](https://vk.com/runnin4ik)  
+Группа автора проекта GameTips: [https://vk.com/gametips](https://vk.com/gametips)  
+Страница проекта на сайте автора: [https://game-tips.ru/it/kak-sdelat-knopki-byistryih-otvetov-keyboard-dlya-botov-v-vk/](https://game-tips.ru/it/kak-sdelat-knopki-byistryih-otvetov-keyboard-dlya-botov-v-vk/)  
 
 ****************************************
 ## Начало работы:
